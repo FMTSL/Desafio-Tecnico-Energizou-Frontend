@@ -277,6 +277,12 @@ export default Global;
 ![telefone-campo](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/251cedbd-2a19-47a2-a349-697e6b300198) ![campos-cep-cnpj](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/b9a41191-3914-4761-99a3-85fb1d6bec43)
 
 
+### Validações
+
+- Para impedir que os campos sejam enviados vazios, utilizei validações na própria tag `HTML` utilizando o `required` e especificando o `type`, que além de impedir o envio de forma indesejada por parte do usuário, garante uma semântica adequada.
+
+![validacao](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/d789cdc4-11c4-461f-a8da-d67ad83416af) ![validacao](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/219331e0-eec8-47e8-a112-456a7c96e5da) ![validacao-email](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/2f964229-c310-462b-b90f-ae41be926680)
+
 
 
 
