@@ -283,7 +283,12 @@ export default Global;
 
 ![validacao](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/d789cdc4-11c4-461f-a8da-d67ad83416af) ![validacao](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/219331e0-eec8-47e8-a112-456a7c96e5da) ![validacao-email](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/2f964229-c310-462b-b90f-ae41be926680)
 
+### CRUD no Front-End
 
+- No front-end, é possivel realizar todas as funções que possibilitam um CRUD, sendo expresso o formulário de cadastro, listagem dos dados da `Empresa`, `CNPJ`, `Email` e `nomeCliente`. Abaixo segue exemplo de inclusão de dados feito na prática:
+
+![localhost-front](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/b2dbf817-a977-40c3-aa63-c5d1433c345b)
+*Dentro da lista, é possível realizar a edição e a exclusão dos dados. As determinadas funções estão aplicadas dentro dos ícones, que por questão de acessibilidade/usabilidade, aparece representados na figura de `lixeira` para exclusão e `caderno-caneta` para edição. Para realizar o `PUT` e o `DELETE`, basta clicar nos ícones anteriormente mencionados*. 
 
 
   
