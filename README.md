@@ -3,7 +3,7 @@ Desafio técnico para vaga de Desenvolvedor Fullstack na Energizou.
 
 ## Descrição do Projeto
 
-- Projeto realizado para candidatura na empresa Energizou, no qual foi imposto a criação de um sistema de cadastro para clientes utilizando o React.js para o Front-End. Foi determinada a criação de dois repositórios no Github para dividir a parte do Back e Front-End. Para acessar a parte de Back-end, feita em Node.js, clique [*Aqui*]([https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Backend)).
+- Projeto realizado para candidatura na empresa Energizou, no qual foi imposto a criação de um sistema de cadastro para clientes utilizando o React.js para o Front-End. Foi determinada a criação de dois repositórios no Github para dividir a parte do Back e Front-End. Para acessar a parte de Back-end, feita em Node.js, clique [*Aqui*](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Backend). 
 
 - *Foi criado um CRUD para cadastro de empresas com os seguintes campos: Nome do Cliente, senha, nome da empresa, CNPJ, CEP, endereço, número, telefone e e-mail.*
 
