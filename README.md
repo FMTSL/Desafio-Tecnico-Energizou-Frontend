@@ -25,3 +25,26 @@ Abra http://localhost:3000 para visualização em seu navegador.
 A página é recarregada a cada alteração, graças a implementação do `Nodemon`, um utilitário que monitora as mudanças nos arquivos do projeto, reiniciando o servidor. 
 
 
+## Index.js
+
+- Arquivo principal responsável por renderizar o elemento principal da aplicação.
+
+```javascript
+  import React from 'react';
+  import ReactDOM from 'react-dom/client';
+  import App from './App';
+  
+  
+  const root = ReactDOM.createRoot(document.getElementById('root'));
+  root.render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  );
+```
+- Ao ser inicializado e acessado no navegador, a visualização ficará correspondente a imagem abaixo:
+
+![localhost](https://github.com/FMTSL/Desafio-Tecnico-Energizou-Frontend/assets/88333095/54cd7b57-f2e0-41be-add9-ee087be09a28)
+
+
+  
